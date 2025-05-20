@@ -1,0 +1,15 @@
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\obj\Debug\Database_Project2.csproj.AssemblyReference.cache
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\obj\Debug\Database_Project2.DashboardKontrol.resources
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\obj\Debug\Database_Project2.Form1.resources
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\obj\Debug\Database_Project2.ilanEkle.resources
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\obj\Debug\Database_Project2.ilanlarKontrol.resources
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\obj\Debug\Database_Project2.Properties.Resources.resources
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\obj\Debug\Database_Project2.csproj.GenerateResource.cache
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\obj\Debug\Database_Project2.csproj.CoreCompileInputs.cache
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\obj\Debug\Database_Project2.Duzenleme.resources
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\bin\Debug\Database_Project2.exe.config
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\bin\Debug\Database_Project2.exe
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\bin\Debug\Database_Project2.pdb
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\obj\Debug\Database_Project2.exe
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\obj\Debug\Database_Project2.pdb
+C:\Users\kinay\source\repos\Database_Project2\Database_Project2\obj\Debug\Database_Project2.Silme.resources
